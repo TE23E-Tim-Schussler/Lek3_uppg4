@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+p{
+    color:yellow;
+}
+h2{
+    color:gainsboro;
+    background-color: gray;
+}
+img{
+    display: block;
+    margin-left:auto;
+}
+h3{
+    color:blue;
+}
